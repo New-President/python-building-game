@@ -59,7 +59,10 @@ There are five types of buildings, each scoring differently based on their place
 
 ## How to Run the Game
 1. Ensure Python 3.x is installed on your machine.
+  
 2. Clone or download the game files.
+  
 3. Run the game script using the command:
    ```bash
    python BuildingGame.py
+   ```
